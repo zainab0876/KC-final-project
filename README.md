@@ -4,31 +4,31 @@
 
 <div dir="rtl">
   
-### اسم الطالب
+زينب ناصر المؤمن
 
 
-### اسم المشروع
+مولد الباسوورد
+موقع يألف لك باسوورد قوي وثابت ويفيد الناس الي كل فترة تحتاج تسوي باسوورد يديد
 
 
-# شرح الفكرة
+
 المشكلة والحلول المطروحة إن وجدت
 
 
-# الأعمال المستقبلية
+دكتورة اطفال
 
 
 </div>
 
 > Fill out project information in English ⬇️
-### Student Name
+Zainab Nasser Almoamen
 
 
-### Project Name
+password generator
 
-# Idea
+an application that automatically makes new passwords that are strong and secure
 Problem and solutions if found 
 
 
-# Future Work 
-
+children doctor
 
